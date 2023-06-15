@@ -1,0 +1,32 @@
+p{
+    font-family: system-ui;
+    font-size: 20px
+}
+h2, .text-center{
+    text-align: center;
+}
+footer, header{
+    background-color: #839788;
+    color:white;
+}
+main{
+    background-color: #f5e4d7;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 200px;
+}
+.wrapper{
+    width: 400px;
+    margin:auto
+}
+hr {
+    width: 24%;
+  }
+
+a:link {color:blue}
+a:visited {color:red}
+a:hover{color:green}
+a:active{color:black}
